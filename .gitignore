@@ -4,5 +4,12 @@
 .httr-oauth
 .DS_Store
 .quarto
-dados/raw/
 .RDataTmp*
+*.aux
+*.log
+*.tex
+*.toc
+*.html
+*_files/
+dados/processed/dados_completos.csv
+dados/processed/dados_jogadores.csv
