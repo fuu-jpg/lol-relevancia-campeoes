@@ -1,4 +1,4 @@
-# 🎮 Análise e Classificação da Relevância de Campeões no CBLOL
+#  Análise e Classificação da Relevância de Campeões no CBLOL
 
 Projeto de **análise de dados e classificação** aplicado ao cenário competitivo de *League of Legends*, com o objetivo de identificar fatores associados à relevância dos campeões em diferentes patches e classificá-los como **relevantes ou não relevantes**.
 
